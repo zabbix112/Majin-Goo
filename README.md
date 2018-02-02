@@ -27,6 +27,7 @@ Automotive Grade Linux Honeypot - What services do hackers look for in cars? Wha
 
 TBD: 
 The many security tools and exact architecture. 
+Wiresharkm Recon-ng at least
 
 This should sit behind an IDS/IPS and Firewall at the least to simulate a real environment. 
 

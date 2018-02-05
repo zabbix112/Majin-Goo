@@ -4,9 +4,9 @@ A destined replacement for HoneyDrive (albeit inspired by).
 Since HoneyDrive does not seem to be getting an update anytime soon, a 2018 variant is needed. 
 Enter: HoneyCloud
 
-Ubuntu 17.10
+Ubuntu 16.04 - Installed
 Elastic Stack to display all the useful logs captured by the pots (Forward to centralized log server maybe?)
-Honeypots: 
+Isolated Honeypots: 
 Cowrie
 Dionaea
 Honeyd
@@ -27,9 +27,11 @@ Automotive Grade Linux Honeypot - What services do hackers look for in cars? Wha
 
 TBD: 
 The many security tools and exact architecture. 
-Wiresharkm Recon-ng at least
+Complete - Wireshark, Tshark, ntop
 
-This should sit behind an IDS/IPS and Firewall at the least to simulate a real environment. 
+Coming soon - Recon-ng at least
+
+Considering adding Snort 
 
 This is not even in Alpha, this is me jotting down my ideas. 
 But feel free to contact me regardless if you wish to help on this. 

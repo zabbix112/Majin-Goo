@@ -6,6 +6,10 @@ Enter: HoneyCloud
 
 Ubuntu 16.04 - Installed
 Elastic Stack to display all the useful logs captured by the pots (Forward to centralized log server maybe?)
+wazuh elastic search template may have failed
+logstash complete
+kibana failing due to version issues waiting until resolved.
+
 Isolated Honeypots: 
 Cowrie
 Dionaea

@@ -1,8 +1,8 @@
-# HoneyCloud
+# Majin-Goo
 A destined replacement for HoneyDrive (albeit inspired by). 
 
 Since HoneyDrive does not seem to be getting an update anytime soon, a 2018 variant is needed. 
-Enter: HoneyCloud
+Enter: Majin-Goo
 
 Ubuntu 16.04 - Installed
 Elastic Stack to display all the useful logs captured by the pots (Forward to centralized log server maybe?)
